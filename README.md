@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 
 ## Introduction
-In this project functional safety documents will be to created. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+In this project functional safety documents ensure compliancy with ISO 26262 will be to created. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
 
 ## The Files
